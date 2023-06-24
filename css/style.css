@@ -551,7 +551,8 @@ header {
 }
 
 .private__image {
-  background-image: url("/img/block-1/rectangle_6_778.jpg");
+  <!--background-image: url("/img/block-1/rectangle_6_778.jpg");-->
+  background-image: url("img/rectangle_6_778.jpg");	
   background-size: 100% 100%;
   background-repeat: no-repeat;
   -o-object-fit: cover;
