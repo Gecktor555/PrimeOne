@@ -193,7 +193,7 @@ header {
   color: #fff;
 }
 
-.header-top__link {
+.header-top__link, .toplink {
   position: relative;
   z-index: 11;
   font-family: "Akzidenz Grotesk BQ - Bd Cnd";
