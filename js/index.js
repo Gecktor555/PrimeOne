@@ -1,5 +1,5 @@
 const headerTopLang = document.querySelector(".header-top-lang");
-const headerTopLangNew = document.querySelector(".header-top-lang__new");
+//const headerTopLangNew = document.querySelector(".header-top-lang__new");
 const buttons = document.querySelectorAll('a');
 const textTitle = document.querySelector(".toplink");
 const textDesc0 = document.querySelector(".btnlink0");
@@ -12,7 +12,7 @@ const textDesc5 = document.querySelector(".btnlink5");
 buttons.forEach(button => {
 	button.addEventListener('click', () => {
 		headerTopLang.querySelector('.active').classList.remove('active');
-		headerTopLangNew.querySelector('.active').classList.remove('active');
+		//headerTopLangNew.querySelector('.active').classList.remove('active');
 		button.classList.add('active');
 
 		const attr = button.getAttribute('language');
