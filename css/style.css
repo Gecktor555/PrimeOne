@@ -252,7 +252,7 @@ header {
   }
 }
 
-.header-bottom-menu__link {
+.header-bottom-menu__link, .btnlink0, .btnlink1, .btnlink2, .btnlink3, .btnlink4, .btnlink5 {
   font-family: "Akzidenz Grotesk BQ - Bd Cnd";
   font-size: 15px;
   line-height: 25px;
