@@ -165,6 +165,7 @@ header {
             justify-content: flex-end;
   }
 }
+
 @media (max-width: 767px) {
   .header-top {
     -webkit-box-pack: end;
