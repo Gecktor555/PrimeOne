@@ -131,6 +131,7 @@ body._touch .menu__list > li._active .menu__arrow {
   min-height: 100%;
   overflow: hidden;
 }
+
 header {
   background-color: #fff;
   padding: 29px 0px 33px 0px;
