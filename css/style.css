@@ -315,6 +315,7 @@ header {
     width: 150px;
   }
 }
+
 @media (max-width: 376px) {
   .header-logo__image img {
     width: 140px;
