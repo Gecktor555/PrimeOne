@@ -358,7 +358,6 @@ header {
     transition: all 0.5s ease 0s;
     background-color: #000;
   }
-	
   .header-menu__icon::before,
 .header-menu__icon::after {
     content: "";
