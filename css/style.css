@@ -321,6 +321,7 @@ header {
     width: 140px;
   }
 }
+
 @media (max-width: 360px) {
   .header-logo__image img {
     width: 120px;
