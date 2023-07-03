@@ -254,6 +254,7 @@ header {
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
+
 @media (max-width: 767px) {
   .header-bottom-menu__list {
     display: block;
