@@ -294,6 +294,7 @@ header {
     letter-spacing: 4px;
   }
 }
+
 @media (max-width: 330px) {
   .header-logo__text {
     font-size: 6px;
