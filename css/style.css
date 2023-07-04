@@ -597,6 +597,7 @@ header {
     margin: 0px 0px 10px 0px;
   }
 }
+
 @media (max-width: 767px) {
   .private-body__title {
     font-size: 30px;
