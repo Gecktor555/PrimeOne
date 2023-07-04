@@ -522,6 +522,7 @@ header {
     height: 300px;
   }
 }
+
 @media (max-width: 767px) {
   .private__column {
     height: 200px;
