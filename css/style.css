@@ -652,6 +652,7 @@ header {
     margin: 0px 0px 0px -40px;
   }
 }
+
 @media (max-width: 330px) {
   .private-body-buttons__link {
     margin: 0px 0px 0px -45px;
