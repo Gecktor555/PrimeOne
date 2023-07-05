@@ -1039,6 +1039,7 @@ header {
 .contacts-content-form {
   padding: 55px 60px;
 }
+
 @media (max-width: 950px) {
   .contacts-content-form {
     padding: 20px 0px 10px 60px;
