@@ -1062,6 +1062,7 @@ header {
 .contacts-content-form__body {
   max-width: 375px;
 }
+
 @media (max-width: 950px) {
   .contacts-content-form__body {
     max-width: 600px;
