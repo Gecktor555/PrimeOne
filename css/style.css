@@ -807,6 +807,7 @@ header {
   display: flex;
   background-color: #000;
 }
+
 @media (max-width: 600px) {
   .why-top {
     -ms-flex-wrap: wrap;
