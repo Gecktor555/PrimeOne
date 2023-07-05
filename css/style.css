@@ -1029,6 +1029,7 @@ header {
     padding: 500px 0px 0px 0px;
   }
 }
+
 @media (max-width: 500px) {
   .contacts-content__map {
     display: none;
