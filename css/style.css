@@ -1108,6 +1108,7 @@ input[type=text], input[type=email], input[type=tel], textarea {
   color: #959595;
   font-size: 15px;
 }
+
 textarea.input {
   resize: none;
   height: 100px;
