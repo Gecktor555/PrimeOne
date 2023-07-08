@@ -229,7 +229,6 @@ header {
       -ms-flex-align: center;
           align-items: center;
 }
-
 @media (max-width: 767px) {
   .header-bottom {
     margin: -20px 0px 0px 0px;
