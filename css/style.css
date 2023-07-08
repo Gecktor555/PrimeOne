@@ -157,7 +157,6 @@ header {
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
-
 @media (max-width: 426px) {
   .header-top {
     -webkit-box-pack: end;
