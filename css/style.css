@@ -213,7 +213,6 @@ header {
     line-height: 20px;
   }
 }
-
 @media (max-width: 340px) {
   .header-top__link {
     font-size: 8px;
