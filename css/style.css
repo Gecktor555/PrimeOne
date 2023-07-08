@@ -207,7 +207,6 @@ header {
   text-decoration: underline;
   color: #000000;
 }
-
 @media (max-width: 525px) {
   .header-top__link {
     font-size: 10px;
