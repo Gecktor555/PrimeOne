@@ -487,7 +487,6 @@ header {
     height: 200px;
   }
 }
-
 @media (max-width: 650px) {
   .private__column-img {
     -webkit-box-flex: 0;
