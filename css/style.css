@@ -281,7 +281,6 @@ header {
   text-transform: uppercase;
   letter-spacing: 8px;
 }
-
 @media (max-width: 525px) {
   .header-logo__text {
     font-size: 8px;
