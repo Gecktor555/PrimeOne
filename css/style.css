@@ -501,7 +501,6 @@ header {
       -ms-flex: 0 0 50%;
           flex: 0 0 50%;
 }
-
 @media (max-width: 1024px) {
   .private__column {
     height: 300px;
