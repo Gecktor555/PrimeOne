@@ -550,7 +550,6 @@ header {
 .private-body {
   padding: 75px 0px 35px 60px;
 }
-
 @media (max-width: 1024px) {
   .private-body {
     padding: 5px 0px 10px 30px;
