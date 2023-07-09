@@ -541,7 +541,6 @@ header {
     border: 5px solid #000;
   }
 }
-
 @media (max-width: 495px) {
   .private__image {
     width: 100%;
