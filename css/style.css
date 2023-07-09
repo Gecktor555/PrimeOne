@@ -324,7 +324,6 @@ header {
 .header-menu__icon {
   display: none;
 }
-
 @media (max-width: 767px) {
   .header-menu__icon {
     display: block;
