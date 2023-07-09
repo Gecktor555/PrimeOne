@@ -477,7 +477,6 @@ header {
           flex: 0 0 50%;
   background-color: #fff;
 }
-
 @media (max-width: 1024px) {
   .private__column-img {
     height: 300px;
