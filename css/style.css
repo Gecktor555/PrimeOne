@@ -788,7 +788,6 @@ header {
       -ms-flex: 0 0 50%;
           flex: 0 0 50%;
 }
-
 @media (max-width: 600px) {
   .why-top__column {
     -webkit-box-flex: 0;
