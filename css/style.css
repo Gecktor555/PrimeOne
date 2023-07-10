@@ -622,7 +622,6 @@ header {
   margin: 0px 0px 0px 15px;
   text-decoration: underline;
 }
-
 @media (max-width: 760px) {
   .private-body-buttons__link {
     margin: 0px 0px 0px -40px;
