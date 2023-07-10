@@ -650,7 +650,6 @@ header {
         flex-wrap: wrap;
   }
 }
-
 @media (max-width: 455px) {
   .products-body {
     -ms-flex-wrap: wrap;
