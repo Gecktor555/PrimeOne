@@ -749,7 +749,6 @@ header {
   margin: 0px 0px 25px 0px;
   height: 100%;
 }
-
 @media (max-width: 800px) {
   .products-item__text {
     padding: 0px 5px 0px 5px;
