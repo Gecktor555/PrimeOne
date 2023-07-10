@@ -670,7 +670,6 @@ header {
             flex: 0 0 50%;
   }
 }
-
 @media (max-width: 455px) {
   .products__column {
     -webkit-box-flex: 0;
