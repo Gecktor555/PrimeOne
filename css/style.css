@@ -588,7 +588,6 @@ header {
   line-height: 25px;
   color: #fff;
 }
-
 @media (max-width: 767px) {
   .private-body__text {
     line-height: 20px;
