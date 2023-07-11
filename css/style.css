@@ -960,7 +960,6 @@ header {
   display: flex;
   background-color: #000;
 }
-
 @media (max-width: 950px) {
   .contacts-content {
     -ms-flex-wrap: wrap;
