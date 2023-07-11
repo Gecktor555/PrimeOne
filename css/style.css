@@ -986,7 +986,6 @@ header {
   background-repeat: no-repeat;
   height: 100%;
 }
-
 @media (max-width: 950px) {
   .contacts-content__map {
     padding: 500px 0px 0px 0px;
