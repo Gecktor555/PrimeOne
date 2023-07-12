@@ -1,3 +1,4 @@
+
 const headerTopLang = document.querySelector(".header-top-lang");
 //const headerTopLangNew = document.querySelector(".header-top-lang__new");
 const buttons = document.querySelectorAll('a');
