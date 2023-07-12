@@ -42,8 +42,6 @@ if (isMobile.any()) {
 	document.body.classList.add('_pc');
 }
 
-
-
 const iconMenu = document.querySelector('.header-menu__icon');
 const menuHeader = document.querySelector('.header__menu');
 if (iconMenu) {
